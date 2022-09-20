@@ -1,0 +1,41 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    font-family: arial;
+    font-size: 16px;
+    line-height: 20px;
+}
+.container
+{
+    width: 950px;
+    /* border: 1px solid red; */
+    margin: 0px auto;
+}
+.container h1
+{
+    padding: 10px 0px;
+    text-align: center;
+    /* border:1px solid black; */
+    background: lavender;
+}
+
+.es6-1
+{
+    width: 295px;
+    border: 1px solid beige;  
+    background: rgb(188, 215, 224); 
+    float: left;
+    padding: 20px 9px;
+}
+.fclear
+{
+    clear: both;
+}
+.es6-1 p
+{
+    font-weight: bold;
+}
